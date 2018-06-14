@@ -1,7 +1,7 @@
 # Data-Analytics-UK-Tourism
 A data analytics and machine learning project using UK Tourism data from the Office of National Statistics
 
-# Summary 
+## Summary 
 Presented are the Jupyter Notebooks of a Data Analytics project undertaken for MSc Data Analytics module. 
 
 Using data available from the Office for National Statistics on UK Tourism, we aimed to build a prediction model to determine whether a tourist is likely to travel independently or in organised packages.
